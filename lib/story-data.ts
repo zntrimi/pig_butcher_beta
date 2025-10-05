@@ -21,7 +21,7 @@ export const instagramProfile = {
   bio: '投資家 | ファイナンシャルアドバイザー | 世界を旅する人生 🌍✈️',
   followers: '125K',
   following: '892',
-  posts: '347',
+  postsCount: '347',
   isVerified: false,
   profileImage: 'https://placehold.co/400x400?text=Profile',
   posts: [
