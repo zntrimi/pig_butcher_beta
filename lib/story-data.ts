@@ -23,11 +23,11 @@ export const instagramProfile = {
   following: '892',
   posts: '347',
   isVerified: false,
-  profileImage: '/images/scammer-profile.jpg',
+  profileImage: 'https://placehold.co/400x400?text=Profile',
   posts: [
-    { id: '1', image: '/images/luxury-car.jpg', likes: '15.2K' },
-    { id: '2', image: '/images/expensive-watch.jpg', likes: '18.5K' },
-    { id: '3', image: '/images/private-jet.jpg', likes: '22.1K' },
+    { id: '1', image: 'https://placehold.co/600x400?text=Luxury+Car', likes: '15.2K' },
+    { id: '2', image: 'https://placehold.co/600x400?text=Watch', likes: '18.5K' },
+    { id: '3', image: 'https://placehold.co/600x400?text=Private+Jet', likes: '22.1K' },
   ]
 };
 
@@ -110,7 +110,7 @@ export const lineMessages: Message[] = [
     sender: 'scammer',
     text: '素晴らしい！10万円が12万円になりました🎉',
     timestamp: '2024-01-20 15:00',
-    image: '/images/profit-fake-1.jpg'
+    image: 'https://placehold.co/600x400?text=Profit+120K'
   },
   {
     id: '14',
@@ -135,7 +135,7 @@ export const lineMessages: Message[] = [
     sender: 'scammer',
     text: '100万円になりました！🚀',
     timestamp: '2024-01-25 14:00',
-    image: '/images/profit-fake-2.jpg'
+    image: 'https://placehold.co/600x400?text=Profit+1M'
   },
   {
     id: '18',
@@ -166,7 +166,7 @@ export const lineMessages: Message[] = [
     sender: 'scammer',
     text: '400万円になりました！🎊',
     timestamp: '2024-01-30 16:00',
-    image: '/images/profit-fake-3.jpg'
+    image: 'https://placehold.co/600x400?text=Profit+4M'
   },
   {
     id: '23',
